@@ -1,8 +1,8 @@
-<h2 align="center">Hey What's Up</h2>
+<h2 align="center">Hey What's Up <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /></h2> 
 
 ###
 
-<p align="left">Somethings about me!!<br><br>- 🌱 I’m currently learning System Development<br>- 📫 How to reach me: gustavorsenai@gmail.com<br>- 😄 Pronouns: he/his<br>- ⚡ Fun fact: I use play some games on twitch</p>
+<p align="left">Somethings about me!!<br><br>- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> I’m currently learning System Development<br>- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" /> How to reach me: gustavorsenai@gmail.com<br>- 😄 Pronouns: he/his<br>- ⚡ Fun fact: I use play some games on twitch</p>
 
 ###
 
@@ -14,10 +14,6 @@
 ###
 
 <img align="right" height="235" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-1808.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/GustavoRSenai/GustavoRSenai/output/snake.svg" alt="Snake animation" />
 
 ###
 
