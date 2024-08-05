@@ -25,13 +25,13 @@
 
 <div align="down left">
   <a href="https://www.instagram.com/gustavorsd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="26" height="20" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/gutin309" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="26" height="20" alt="twitch logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCTMYV9yeiOlRMTUu-e5RMMw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="26" height="20" alt="youtube logo"  />
   </a>
 </div>
 
