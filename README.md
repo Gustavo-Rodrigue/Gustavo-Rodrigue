@@ -7,23 +7,23 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoRSenai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoRSenai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="102" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoRSenai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoRSenai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="125" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-1808.gif"  />
+<img align="right" height="180" src="https://www.icegif.com/wp-content/uploads/2024/01/icegif-698.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoRSenai&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="180" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="down left">
   <a href="https://www.instagram.com/gustavorsd/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
