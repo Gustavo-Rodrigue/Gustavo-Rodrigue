@@ -1,6 +1,7 @@
 ###
 
-![image](https://github.com/user-attachments/assets/43b3adcf-4c7a-4024-8c42-1db0d2943c0c)
+<img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg2N3FsNXhxYmsyZDYyZW9obHVpaTdzYTA2b2p3c2o4aWs1cTRmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IBMavwmu4KEEw/giphy.webp"  />
+
 
 ###
 
