@@ -12,7 +12,7 @@
 ###
 <div align="left">
 <img height="250" src="https://github.com/user-attachments/assets/36a926f1-5b80-4a0f-9356-1aa7613907b6"/>
-  <img padding-bottom="50px" src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoRSenai&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="160" alt="activity-graph graph"  />
+  <img padding-bottom="50px" src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoRSenai&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="130" alt="activity-graph graph"  />
 </div>
 
 
