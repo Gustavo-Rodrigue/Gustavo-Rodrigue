@@ -10,9 +10,7 @@
 </div>
 
 ###
-<div align="left">
-
-<img height="250" src="https://github.com/user-attachments/assets/36a926f1-5b80-4a0f-9356-1aa7613907b6"/>
+<div align="right">
 
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gutin.street/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-da-silva-rodrigues-1a824227b/)
