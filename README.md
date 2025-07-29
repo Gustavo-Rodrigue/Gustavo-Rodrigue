@@ -47,8 +47,6 @@ I'm a student of System Development in SENAI-SP, in my way to the graduation I'm
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gutin.street/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-da-silva-rodrigues-1a824227b/)
 [![Twitch](https://img.shields.io/badge/-Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gutin309)
-![Email](https://img.shields.io/badge/rguustavo61%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 
 
 </div>
